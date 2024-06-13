@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thomas Driancourt and I'm working in the Client Factory
-- 👀 I’m interested in C#, devOps, GitHub and Blazor 
+- 👀 I’m interested in C#, DevOps, GitHub and Blazor 
 
 
 <!---
